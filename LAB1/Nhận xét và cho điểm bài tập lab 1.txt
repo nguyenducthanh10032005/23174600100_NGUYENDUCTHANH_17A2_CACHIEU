@@ -1,0 +1,38 @@
++ Các file .txt kết quả chạy code đều là file trống?
++ Các code bài tập giống hệt bài code của bạn Trần Thị Thanh Tâm?
+
++ Nhận xét và cho điểm từng bài tập:
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: đúng
+Điểm bài tập: 1.0 
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: sử dụng function, kiến thức vượt ngoài kiến thức của lab 1
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 6: sử dụng function, list, vòng lặp for, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 9: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 10: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 7.0
