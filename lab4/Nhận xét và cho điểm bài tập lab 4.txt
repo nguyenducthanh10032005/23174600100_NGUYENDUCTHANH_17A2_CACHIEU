@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) sử dụng kiến thức ngoài kiến thức đã học ở các lab 
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) kết quả in ra toàn True
+b) thiếu
+c) thiếu
+Điểm bài tập: 0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) đoạn code của bài 3?
+b) đúng
+c) thiếu
+d) thiếu
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 4: 4.0

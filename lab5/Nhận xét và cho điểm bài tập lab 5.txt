@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: nếu cô nhập vào 2 chuỗi aaaaabbbccc và aaaabc thì chuỗi con ký tự chung có độ dài ngắn nhất là abc em nhé. Đoạn code giống y hệt đoạn code của bạn Trần Thị Thanh Tâm?
+Điểm bài tập: 0.75 : 2 = 0.375
+
+- Bài 3: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 5: đoạn code chưa chinh xác. Khi cô nhập 2 chuỗi helo world thì kết quả phải là h-w-e-o... chứ không phải hw-eo.... Đoạn code giống y hệt đoạn code của bạn Trần Thị Thanh Tâm?
+Điểm bài tập: 0.5 : 2 = 0.25
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: thiếu
+Điểm bài tập: 0
+
+- Bài 9: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 5: 5.625
